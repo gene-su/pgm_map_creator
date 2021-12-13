@@ -15,7 +15,7 @@ sudo apt-get install libignition-math2-dev protobuf-compiler
 ### Clone the package to the `src` folder.
 ```bash
 cd catkin_ws/src/
-git clone https://github.com/hyfan1116/pgm_map_creator
+git clone https://github.com/gene-su/pgm_map_creator
 ```
 
 ### Build the catkin workspace.
