@@ -1,6 +1,6 @@
 # `pgm_map_creator`
 
-The ROS package `pgm_map_creator` can generate the pgm map directly from the Gazebo world.
+The ROS package `pgm_map_creator` can generate the pgm map directly from the Gazebo world. Compilation errors occur in ROS melodic are fixed. See reference for the original version of the package.
 ![image](https://github.com/gene-su/pgm_map_creator/blob/main/30e0ef6f0a39474899df45b23c7cd9f9.png)
 
 ## Environment
